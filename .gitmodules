@@ -1,0 +1,3 @@
+[submodule "lzw-rs-py"]
+	path = lzw-rs-py
+	url = https://gitlab.com/Wilmhit/lzw-rs-py.git
